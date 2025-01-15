@@ -23,6 +23,8 @@ public class Snack {
         System.out.println(oatmeal);
         Snack cereal = new Snack("cereal", 2, new String[]{"honey", "bananas"}, price:0.5f);
         System.out.println(cereal);
+        System.out.println(x: "Snacks!");
+        System.out.println(x: "Hello! I like to eat lots of kind bars and gold fish and la croix")
     }
 
 }
